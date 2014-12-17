@@ -10,31 +10,31 @@
 	<string>Day2</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>07473734347FD89303FA9AE8CB3510D7EBE5193A</key>
-		<string>https://github.com/passionchenjianye/Day2.git</string>
+		<key>E845B3F0B18FCFBD8D59C9A93AA0498C81C5108A</key>
+		<string>github.com:passionchenjianye/Objective-C.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Day2.xcodeproj</string>
+	<string>Programming/Day2/Day2.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>07473734347FD89303FA9AE8CB3510D7EBE5193A</key>
-		<string>../..</string>
+		<key>E845B3F0B18FCFBD8D59C9A93AA0498C81C5108A</key>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/passionchenjianye/Day2.git</string>
+	<string>github.com:passionchenjianye/Objective-C.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>07473734347FD89303FA9AE8CB3510D7EBE5193A</string>
+	<string>E845B3F0B18FCFBD8D59C9A93AA0498C81C5108A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>07473734347FD89303FA9AE8CB3510D7EBE5193A</string>
+			<string>E845B3F0B18FCFBD8D59C9A93AA0498C81C5108A</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Day2</string>
+			<string>Objective-C</string>
 		</dict>
 	</array>
 </dict>

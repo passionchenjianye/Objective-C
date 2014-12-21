@@ -14,6 +14,7 @@
 		EA0F7F941A41AA2A00F84495 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA0F7F931A41AA2A00F84495 /* Images.xcassets */; };
 		EA0F7F971A41AA2A00F84495 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EA0F7F951A41AA2A00F84495 /* LaunchScreen.xib */; };
 		EA0F7FA31A41AA2A00F84495 /* TextViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EA0F7FA21A41AA2A00F84495 /* TextViewTests.m */; };
+		EA594E1E1A46E4170060461C /* TextStatsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EA594E1D1A46E4170060461C /* TextStatsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		EA0F7F9C1A41AA2A00F84495 /* TextViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TextViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA0F7FA11A41AA2A00F84495 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EA0F7FA21A41AA2A00F84495 /* TextViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TextViewTests.m; sourceTree = "<group>"; };
+		EA594E1C1A46E4170060461C /* TextStatsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextStatsViewController.h; sourceTree = "<group>"; };
+		EA594E1D1A46E4170060461C /* TextStatsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextStatsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				EA0F7F931A41AA2A00F84495 /* Images.xcassets */,
 				EA0F7F951A41AA2A00F84495 /* LaunchScreen.xib */,
 				EA0F7F861A41AA2A00F84495 /* Supporting Files */,
+				EA594E1C1A46E4170060461C /* TextStatsViewController.h */,
+				EA594E1D1A46E4170060461C /* TextStatsViewController.m */,
 			);
 			path = TextView;
 			sourceTree = "<group>";
@@ -222,6 +227,7 @@
 				EA0F7F8F1A41AA2A00F84495 /* ViewController.m in Sources */,
 				EA0F7F8C1A41AA2A00F84495 /* AppDelegate.m in Sources */,
 				EA0F7F891A41AA2A00F84495 /* main.m in Sources */,
+				EA594E1E1A46E4170060461C /* TextStatsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,6 +418,7 @@
 				EA0F7FA81A41AA2A00F84495 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EA0F7FA91A41AA2A00F84495 /* Build configuration list for PBXNativeTarget "TextViewTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +427,7 @@
 				EA0F7FAB1A41AA2A00F84495 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
